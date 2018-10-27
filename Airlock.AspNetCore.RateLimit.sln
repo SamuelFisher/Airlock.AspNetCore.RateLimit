@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airlock.AspNetCore.RateLimit", "Airlock.AspNetCore.RateLimit\Airlock.AspNetCore.RateLimit.csproj", "{5D9D504C-C473-4EA0-80EF-0427230D6C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9D504C-C473-4EA0-80EF-0427230D6C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9D504C-C473-4EA0-80EF-0427230D6C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9D504C-C473-4EA0-80EF-0427230D6C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9D504C-C473-4EA0-80EF-0427230D6C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC394BB-08A5-4A83-8FB4-85B51BE56858}
+	EndGlobalSection
+EndGlobal
