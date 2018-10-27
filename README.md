@@ -1,6 +1,8 @@
 Airlock.AspNetCore.RateLimit
 ============================
 
+[![NuGet](https://img.shields.io/nuget/v/Airlock.AspNetCore.RateLimit.svg)](https://www.nuget.org/packages/Airlock.AspNetCore.RateLimit)
+
 Rate limiting for ASP.NET Core MVC.
 
 _This project has not been thoroughly tested. Please be careful before using it in production
